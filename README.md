@@ -2,8 +2,8 @@
 POP Test Script Example for VistaLife
 
 #Author
-June Cho 
-Microsoft Technical Solutions Professional
+**June Cho**--
+*Microsoft Technical Solutions Professional*
 
 #License
 MIT License
