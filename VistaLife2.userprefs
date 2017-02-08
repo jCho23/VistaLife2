@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F625D0BE-0B0A-42C7-80B4-5C3512DAE971}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VistaLife2/Pages/FirstPage.cs">
+    <Files>
+      <File FileName="VistaLife2/AppInitializer.cs" Line="32" Column="5" />
+      <File FileName="VistaLife2/Tests/LoginTests.cs" Line="47" Column="1" />
+      <File FileName="VistaLife2/Pages/BasePage.cs" Line="2" Column="1" />
+      <File FileName="VistaLife2/Pages/LoginPage.cs" Line="48" Column="2" />
+      <File FileName="VistaLife2/Tests.cs" Line="1" Column="1" />
+      <File FileName="VistaLife2/Tests/BaseTest.cs" Line="2" Column="1" />
+      <File FileName="VistaLife2/Pages/FirstPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VistaLife2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
