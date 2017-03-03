@@ -1,9 +1,10 @@
 # VistaLife2
-POP Test Script Example for VistaLife
+This ow to create Xamarin UITests using the Page Object architecture,
 
 #Author
 **June Cho**--
 *Microsoft Technical Solutions Professional*
+
 
 #License
 MIT License
