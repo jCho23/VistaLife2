@@ -1,12 +1,12 @@
 # VistaLife2
 This demo shows to create Xamarin UITests using the Page Object architecture.
 
-#Author
+# Author
 **June Cho**--
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 MIT License
 
 Copyright (c) 2017 June Cho
