@@ -1,7 +1,0 @@
-/Users/junecho/Projects/VistaLife2/VistaLife2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/VistaLife2/VistaLife2/bin/Debug/VistaLife2.dll.mdb
-/Users/junecho/Projects/VistaLife2/VistaLife2/bin/Debug/VistaLife2.dll
-/Users/junecho/Projects/VistaLife2/VistaLife2/obj/Debug/VistaLife2.dll
-/Users/junecho/Projects/VistaLife2/VistaLife2/obj/Debug/VistaLife2.dll.mdb
-/Users/junecho/Projects/VistaLife2/VistaLife2/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/VistaLife2/VistaLife2/bin/Debug/Xamarin.UITest.dll
