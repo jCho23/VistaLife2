@@ -3,6 +3,7 @@ This demo shows to create Xamarin UITests using the Page Object architecture.
 
 # Author
 **June Cho**
+<br>
 *Microsoft Technical Solutions Professional*
 
 
