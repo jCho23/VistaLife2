@@ -16,9 +16,8 @@ namespace VistaLife2.UITests
 		}
 
 		[Test]
-		public void AppLaunched()
+		public void Repl()
 		{
-			app.Screenshot("App Launched");
 			app.Repl();
 		}
 
@@ -37,7 +36,6 @@ namespace VistaLife2.UITests
 
 			//Assert
 			var actualFirstPageTitle = FirstPage.GetTitle();
-
 			Assert.AreEqual(expectedFirstPageTitle, actualFirstPageTitle);
 		}
 

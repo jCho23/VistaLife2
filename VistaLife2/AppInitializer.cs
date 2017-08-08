@@ -27,7 +27,7 @@ namespace VistaLife2
 					.Android
 					// TODO: Update this path to point to your Android app and uncomment the
 					// code if the app is not included in the solution.
-					.ApkFile ("/Users/junecho/Desktop/VistaLife.apk")
+					.ApkFile ("/Users/junecho/Desktop/VistaLife2.apk")
 					.StartApp();
 			}
 

@@ -1,13 +1,10 @@
 ﻿<Properties StartupConfiguration="{F625D0BE-0B0A-42C7-80B4-5C3512DAE971}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="VistaLife2/Pages/FirstPage.cs">
     <Files>
-      <File FileName="VistaLife2/AppInitializer.cs" Line="32" Column="5" />
-      <File FileName="VistaLife2/Tests/LoginTests.cs" Line="39" Column="38" />
-      <File FileName="VistaLife2/Pages/BasePage.cs" Line="2" Column="1" />
-      <File FileName="VistaLife2/Pages/LoginPage.cs" Line="34" Column="3" />
-      <File FileName="VistaLife2/Tests.cs" Line="1" Column="1" />
       <File FileName="VistaLife2/Tests/BaseTest.cs" Line="15" Column="23" />
-      <File FileName="VistaLife2/Pages/FirstPage.cs" Line="39" Column="4" />
+      <File FileName="VistaLife2/Tests/LoginTests.cs" Line="38" Column="49" />
+      <File FileName="VistaLife2/Pages/LoginPage.cs" Line="26" Column="4" />
+      <File FileName="VistaLife2/Pages/FirstPage.cs" Line="16" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
